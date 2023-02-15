@@ -9,15 +9,15 @@ Tugas terdiri dari program berbasis OOP menggunakan bahasa pemrograman C++, Java
 terdapat dua kelas yang dipakai pada program ini, yaitu:
 1. Class Mahasiswa
   untuk membuat objek mahasiswa, class ini memiliki atribut sebagai berikut:
-  -Nama
-  -Nim
-  -Prodi
-  -Fakultas
+  - Nama
+  - Nim
+  - Prodi
+  - Fakultas
   dan untuk method sendiri hanya terdiri dari method seperti get dan set untuk masing-masing atribut
 2. Class Tabel 
   untuk membuat objek tabel, class ini memiliki atribut sebagai berikut:
-  -baris
-  -kolom
+  - baris
+  - kolom
   selain dari method get dan set terdapat satu method tambahan, yaitu method tampil baris. method ini berfungsi untuk menampilkan satu baris data objek yang dikemas dalam bentuk tabel
   
   Catatan: pada bagian PHP hanya memakain class Mahasiswa saja, karna untuk membuat tabel pada PHP dapat menggunakan tag <table> dari html
@@ -27,15 +27,15 @@ untuk proses awal yaitu deklarasi variabel, array, dan list yang diperlukan
 masuk ke bagian loopinh untuk pilih menu, program akan keluar dari loop jika user memilik menu "Keluar"
 terdapat 4 fitur utama yaitu:
   1. Tambah Data Mahasiswa
-     -minta inputan jumlah data 
-     -looping sembari meminta inputan atribut untuk objek
+     - minta inputan jumlah data 
+     - looping sembari meminta inputan atribut untuk objek
      - objek kemudian ditambahkan ke list of objek daftar mahasiswa
   2. Tampil Daftar
-     -menampilkan data objek dalam format tabel dengan objek tabel
+     - menampilkan data objek dalam format tabel dengan objek tabel
   3. Ubah Data Mahasiswa
-     -mengubah data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka update tidak bisa dilanjutakan
+     - mengubah data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka update tidak bisa dilanjutakan
   4. Hapus Data Mahasiswa
-     -menghapus data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka delete tidak bisa dilanjutakan
+     - menghapus data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka delete tidak bisa dilanjutakan
 
 
   Catatan: pada bagian PHP hanya terdapat bagian tambah dan tampil data saja
@@ -49,11 +49,11 @@ terdapat 4 fitur utama yaitu:
 
   ### PHP
   #### tampilan awal
-  ![Tampilan Awal](https://user-images.githubusercontent.com/100481579/219071766-fcbe2f20-f25e-489a-b0e3-98ce9e2af184.png)
+  ![Tampilan Awal](https://user-images.githubusercontent.com/100481579/219073064-6bb25f5d-4e31-4a64-b9d1-92c9fe5ba516.png)
   #### tambah data
-  ![Isi form tambah data](https://user-images.githubusercontent.com/100481579/219072002-8371be82-dd5e-4263-ae97-54101b42dd78.png)
+  ![Isi form tambah data](https://user-images.githubusercontent.com/100481579/219073262-dc388ae2-351b-42e6-a243-22c7b47f87f8.png)
   #### Hasil
-  ![Hasil setelah tambah data](https://user-images.githubusercontent.com/100481579/219072073-37a67aaa-98a5-4442-aa84-82f909289a78.png)
+  ![Hasil setelah tambah data](https://user-images.githubusercontent.com/100481579/219073304-12b973d7-6ad2-4697-b274-c85b32f36903.png)
 
   
   
