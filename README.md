@@ -20,7 +20,7 @@ terdapat dua kelas yang dipakai pada program ini, yaitu:
   - kolom
   selain dari method get dan set terdapat satu method tambahan, yaitu method tampil baris. method ini berfungsi untuk menampilkan satu baris data objek yang dikemas dalam bentuk tabel
   
-  Catatan: pada bagian PHP hanya memakain class Mahasiswa saja, karna untuk membuat tabel pada PHP dapat menggunakan tag <table> dari html
+  Catatan: pada bagian PHP hanya memakai class Mahasiswa saja, karna untuk membuat tabel pada PHP dapat menggunakan tag table dari html
   
 ## Penjelasan Singkat Main
 untuk proses awal yaitu deklarasi variabel, array, dan list yang diperlukan
@@ -42,10 +42,11 @@ terdapat 4 fitur utama yaitu:
   
   ## Hasil
   ### Java/C++/Python(kurang lebih sama)
-  ![Screenshot (564)m](https://user-images.githubusercontent.com/100481579/219070773-241d2294-e022-43d9-9528-dcccbf95f781.png)
-  ![Screenshot (565)m](https://user-images.githubusercontent.com/100481579/219071203-0e3b99d8-70e0-451b-a62d-1e0e205cd167.png)
-  ![Screenshot (566)m](https://user-images.githubusercontent.com/100481579/219071223-3c7e7ddd-5314-46a7-85a3-2a5577b60e86.png)
-  ![Screenshot (567)](https://user-images.githubusercontent.com/100481579/219071273-fd5367dc-7bf2-47e8-9c35-240cbdc6a0b8.png)
+![Screenshot (568)](https://user-images.githubusercontent.com/100481579/219074793-2b40e50e-9c1c-4155-9e12-d22e46eeaca8.png)
+![Screenshot (569)](https://user-images.githubusercontent.com/100481579/219074816-39af223a-440e-439e-8c3b-035477d739b7.png)
+![Screenshot (570)](https://user-images.githubusercontent.com/100481579/219074841-21dba40a-de3e-4334-9408-a6480c05c3ab.png)
+![Screenshot (571)](https://user-images.githubusercontent.com/100481579/219074861-f6f62dd5-e455-4ee2-b642-72b82bdffb5c.png)
+
 
   ### PHP
   #### tampilan awal
