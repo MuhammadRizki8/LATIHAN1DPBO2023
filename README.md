@@ -36,6 +36,24 @@ terdapat 4 fitur utama yaitu:
      -mengubah data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka update tidak bisa dilanjutakan
   4. Hapus Data Mahasiswa
      -menghapus data berdasarkan nim yang diinputkan, jika nim tidak ditemukan maka delete tidak bisa dilanjutakan
-     
+
+
   Catatan: pada bagian PHP hanya terdapat bagian tambah dan tampil data saja
+  
+  ## Hasil
+  ### Java/C++/Python(kurang lebih sama)
+  ![Screenshot (564)m](https://user-images.githubusercontent.com/100481579/219070773-241d2294-e022-43d9-9528-dcccbf95f781.png)
+  ![Screenshot (565)m](https://user-images.githubusercontent.com/100481579/219071203-0e3b99d8-70e0-451b-a62d-1e0e205cd167.png)
+  ![Screenshot (566)m](https://user-images.githubusercontent.com/100481579/219071223-3c7e7ddd-5314-46a7-85a3-2a5577b60e86.png)
+  ![Screenshot (567)](https://user-images.githubusercontent.com/100481579/219071273-fd5367dc-7bf2-47e8-9c35-240cbdc6a0b8.png)
+
+  ### PHP
+  #### tampilan awal
+  ![Tampilan Awal](https://user-images.githubusercontent.com/100481579/219071766-fcbe2f20-f25e-489a-b0e3-98ce9e2af184.png)
+  #### tambah data
+  ![Isi form tambah data](https://user-images.githubusercontent.com/100481579/219072002-8371be82-dd5e-4263-ae97-54101b42dd78.png)
+  #### Hasil
+  ![Hasil setelah tambah data](https://user-images.githubusercontent.com/100481579/219072073-37a67aaa-98a5-4442-aa84-82f909289a78.png)
+
+  
   
