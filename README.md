@@ -2,10 +2,10 @@
 
 /Saya Muhammad Rizki 2107922 mengerjakan Latihan 1 dalam mata kuliah Desain dan Pmerograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin/
 
-##Deskripsi
+## Deskripsi
 Tugas terdiri dari program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang menampilkan informasi daftar mahasiswa (sekumpulan objek mahasiswa) dan memiliki fitur menambah, mengubah, dan menghapus data. Setiap mahasiswa memiliki data nama, NIM, program studi, fakultas, dan foto profil (khusus bahasa PHP).
 
-##Desain
+## Desain
 terdapat dua kelas yang dipakai pada program ini, yaitu:
 1. Class Mahasiswa
   untuk membuat objek mahasiswa, class ini memiliki atribut sebagai berikut:
@@ -22,7 +22,7 @@ terdapat dua kelas yang dipakai pada program ini, yaitu:
   
   Catatan: pada bagian PHP hanya memakain class Mahasiswa saja, karna untuk membuat tabel pada PHP dapat menggunakan tag <table> dari html
   
-##Penjelasan Singkat Main
+## Penjelasan Singkat Main
 untuk proses awal yaitu deklarasi variabel, array, dan list yang diperlukan
 masuk ke bagian loopinh untuk pilih menu, program akan keluar dari loop jika user memilik menu "Keluar"
 terdapat 4 fitur utama yaitu:
